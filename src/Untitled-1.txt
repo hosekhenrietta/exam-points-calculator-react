@@ -1,0 +1,27 @@
+done:
+Create-React-App használata (1pt)
+Legalább 4 komponens (1pt)
+Megjelenik a feladatlista (2pt)
+Előző/következő gombokkal is lehet navigálni a feladatok között (1pt)
+Egy feladatnál megjelennek a szempontok, minden információ elérhető (2pt)
+Igényes megjelenés (2pt)
+Üres feladatsor vagy szempontlista esetén megfelelően jelzi ezt (1pt)
+A feladatlistában lehet navigálni a feladatok között (2pt)
+Mégsem gomb helyes működése (2pt)
+A feladatlista tartalmaz kitöltési információkat (1pt)
+
+Összesítő pontszám (1pt)
+A szám típus jól kezelt (2pt)
+
+
+todo:
+
+A lista típus jól kezelt (2pt)
+A logikai típus jól kezelt (2pt)
+Hibaüzenetek a szempontok mellett (ahol van értelme) (2pt)
+Navigálható hibalista (3pt)
+Progress bar (1pt)
+
+Mentés gomb helyes működése (2pt)
+-összes taskin es melik fequiresód egy tomb és amikor onchangelem akkor klikkelheto a submit, amikor minde
+
